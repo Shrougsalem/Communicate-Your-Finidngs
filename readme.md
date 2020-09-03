@@ -6,9 +6,7 @@ This document explores a dataset that includes information about individual ride
 In this project we will gather on real-world data to wrangle, explore, analyze, and comunicate our findings about Bay Wheels's trip data. We will do an exploratory analysis to answer the following.
 
 * When are most trips taken in terms of time of day, day of the week, or month of the year?
-<br/>
 * How long does the average trip take?
-<br/>
 * Does the above depend on if a user is a subscriber or customer?
 
 
