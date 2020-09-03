@@ -64,8 +64,17 @@ To answer the following
 * Does the above depend on if a user is a subscriber or customer?
 The findings was just as we expected. 
 
+## References
+[1] https://gist.github.com/rochacbruno/2883505 <br/>
+[2] https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.reset_index.html <br/>
+[3] https://news.google.com/covid19/map?hl=en-US&mid=%2Fg%2F11g6njkk2y&gl=US&ceid=US%3Aen <br/>
+[4] Udacity - https://udacity.com/<br/>
+[5] YouTube Tutorials - https://www.youtube.com/<br/>
+[6] stackoverflow - https://stackoverflow.com <br/>
+[7] Title positioning error - suptitle - https://stackoverflow.com/questions/52096050/seaborn-title-position
+
 ## Built With
-* `pandas`, `NumPy`, `requests`, `Image`, `os`,`matplot`
+* `pandas`, `NumPy`, `requests`, `Image`, `os`,`matplot`,`seaborn`
 
 ## Acknowledgement 
 Udacity's Data Analyst Developer - Connect Nanodegree Program with MISK Foundation
